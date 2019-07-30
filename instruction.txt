@@ -1,0 +1,10 @@
+#install react setup
+npm install create-react-app -g
+
+#after first step
+create-react-app gatuam-app
+
+#cd gautam-app
+
+#run app in browser
+npm start 
